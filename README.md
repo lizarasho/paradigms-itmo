@@ -2,7 +2,7 @@
 
 ## expression_parser
 #### Вычисление выражений
- * Реализовать интерфейсы `Expression`, `DoubleExpression`, `TrippleExpression`
+ * Реализовать интерфейсы `Expression`, `DoubleExpression`, `TripleExpression`
 #### Разбор выражений
  * Класс `ExpressionParser` должен реализовывать интерфейс `Parser`
 #### Обработка ошибок
